@@ -18,7 +18,7 @@ You need to register and get an appid from http://fortunecookies.in/registerws.p
 
 1. Uncompress the downloaded .zip file and upload the `fortunecookies` directory to `/wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Get an 'appid' by registering at http://fortunecookies.in/registerws.php. The appid will be emailed to you.
+3. Get an 'appid' by registering at http://fortunecookies.in/registerws.php (The appid will be emailed to you)
 4. Add the Fortune Cookies plugin to your 'Sidebar' from the Wordpress Widgets (admin) Page
 5. Once added, click on Fortunecookies (Edit), enter the Appid and Save the changes
 
