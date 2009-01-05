@@ -4,7 +4,7 @@ Donate link: http://fortunecookies.in/wp/
 Tags: fortune cookies, quotes, random quotes, sidebar
 Requires at least: 2.5
 Tested up to: 2.7
-Stable tag: 4.3
+Stable tag: trunk
 
 Gets you a random fortune cookie quote in your Wordpress sidebar.
 
