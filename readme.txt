@@ -1,7 +1,7 @@
 === Fortune Cookies ===
 Contributors: zeus
 Donate link: http://fortunecookies.in/wp/
-Tags: fortune cookies, quotes, random quotes, sidebar
+Tags: widget, fortune cookies, quotes, random quotes, fortunes, sayings, sidebar
 Requires at least: 2.5
 Tested up to: 2.7
 Stable tag: trunk
