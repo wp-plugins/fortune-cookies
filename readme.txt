@@ -6,7 +6,7 @@ Requires at least: 2.5
 Tested up to: 2.7
 Stable tag: trunk
 
-Gets you a random fortune cookie quote in your Wordpress sidebar.
+Gets you a random quote - fortune in your Wordpress sidebar.
 
 == Description ==
 
